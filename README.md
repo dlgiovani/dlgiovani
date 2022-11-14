@@ -4,8 +4,8 @@
 - 📫 You can <b>reach me</b> @ gdrosdalima@gmail.com or via WhatsApp @ +55 (41) 984486463;.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=aura&show_icons=true#gh-dark-mode-only)](https://github.com/dlgiovani/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgiovani&layout=compact&theme=aura&show_icons=true&langs_count=10#gh-dark-mode-only)](https://github.com/dlgiovani/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=aura&show_icons=true#gh-dark-mode-only)](https://dlgiovani.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgiovani&layout=compact&theme=aura&show_icons=true&langs_count=10#gh-dark-mode-only)](https://dlgiovani.github.io)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=buefy&show_icons=true#gh-light-mode-only)](https://github.com/dlgiovani/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgiovani&layout=compact&theme=aura&show_icons=true&langs_count=10#gh-light-mode-only)](https://github.com/dlgiovani/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=buefy&show_icons=true#gh-light-mode-only)](https://dlgiovani.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgiovani&layout=compact&theme=aura&show_icons=true&langs_count=10#gh-light-mode-only)](https://dlgiovani.github.io)
