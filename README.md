@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning more about Data Analytics, Architecture and ML;
 - 📫 You can <b>reach me</b> @ gdrosdalima@gmail.com or via WhatsApp @ +55 (41) 984486463;.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=synthwave)](https://github.com/dlgiovani/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=tokyonight)](https://github.com/dlgiovani/github-readme-stats)
