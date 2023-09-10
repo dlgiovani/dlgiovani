@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>@dlgiovani</b>.
-- 👀 I’m interested in Data Analytics, Data Architecture and Machine Learning;
+- 👀 I’m interested in Software development, Data Analytics & Architecture and Machine Learning;
 - 🌱 I’m currently learning more about Data Analytics, Architecture and ML;
 - 📫 You can <b>reach me</b> @ <a href="mailto:gdrosdalima@gmail.com" target="_blank">gdrosdalima@gmail.com</a>.
 
