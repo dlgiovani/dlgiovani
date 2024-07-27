@@ -1,7 +1,20 @@
-- 👋 Hi, I’m <b>@dlgiovani</b>.
-- 👀 I’m interested in Software development, Data Analytics & Architecture and Machine Learning;
-- 🌱 I’m currently learning more about Computer Science;
-- 📫 You can <b>reach me</b> @ <a href="mailto:gdrosdalima@gmail.com" target="_blank">gdrosdalima@gmail.com</a>.
+### Hi,
+```diff 
++ I'm Giovani
+```
+
+If you live in the south of Brazil, it is very likely that I touched some software that makes your internet plan work.
+
+I am a programmer and I develop softwares. In the last years I specialized myself on APIs and fullstack development, and a little on design too. 
+You can find my portfolio [here](https://dlgiovani.github.io/).
+
+
+> [!NOTE]
+> Most of my work is private, so you can get to know me more by talking to me. 
+
+[Send me an email](mailto:gdrosdalima@gmail.com), maybe?
+
+![Cat](https://http.cat/418)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=aura&show_icons=true#gh-dark-mode-only)](https://dlgiovani.github.io#gh-dark-mode-only)-->
