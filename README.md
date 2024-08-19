@@ -12,7 +12,7 @@ You can find my portfolio [here](https://dlgiovani.github.io/).
 > [!NOTE]
 > Most of my work is private, so you can get to know me more by talking to me. 
 
-[Send me an email](mailto:gdrosdalima@gmail.com), maybe?
+[Send me an email](mailto:gdrosdalima@gmail.com) if you're brave enough
 
 ![Cat](https://http.cat/418)
 
