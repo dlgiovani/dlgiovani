@@ -14,7 +14,19 @@ You can find my portfolio [here](https://dlgiovani.github.io/).
 
 [Send me an email](mailto:gdrosdalima@gmail.com) if you're brave enough
 
-![Cat](https://http.cat/418)
+
+![Python](https://img.shields.io/badge/Python-3e3eaf?style=for-the-badge&logo=python&logoColor=fbfb11)
+![FastAPI](https://img.shields.io/badge/FastAPI-002200?style=for-the-badge&logo=fastapi&logoColor=009485)
+![Pydantic](https://img.shields.io/badge/Pydantic-1d0214?style=for-the-badge&logo=pydantic&logoColor=e520e9)
+![SQLAlchemy](https://img.shields.io/badge/SQL_Alchemy-770202?style=for-the-badge&logo=sqlalchemy&logoColor=dedede)
+![Alembic](https://img.shields.io/badge/Alembic-030303?style=for-the-badge&logo=alembic&logoColor=303030)
+![OpenAPI](https://img.shields.io/badge/Openapi-173647?style=for-the-badge&logo=openapi&logoColor=85ea2d)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Github-0e000e?style=for-the-badge&logo=git&logoColor=773366)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=aura&show_icons=true#gh-dark-mode-only)](https://dlgiovani.github.io#gh-dark-mode-only)-->
