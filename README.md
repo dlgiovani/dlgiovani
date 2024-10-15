@@ -35,4 +35,6 @@ You can find my portfolio [here](https://dlgiovani.github.io/).
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=buefy&show_icons=true#gh-light-mode-only)](https://dlgiovani.github.io#gh-light-mode-only)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgiovani&layout=compact&show_icons=true&langs_count=10#gh-light-mode-only)](https://dlgiovani.github.io#gh-light-mode-only)
 
-[An actual picture of me coding](https://github.com/dlgiovani/dlgiovani/blob/main/cat_unsleep.jpg?raw=true)
+<div>
+  <img src="https://github.com/dlgiovani/dlgiovani/blob/main/cat_unsleep.jpg?raw=true" />
+</div>
