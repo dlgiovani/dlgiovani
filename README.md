@@ -12,8 +12,10 @@ You can find my portfolio [here](https://dlgiovani.github.io/).
 > [!NOTE]
 > Most of my work is private, so you can get to know me more by talking to me. 
 
-[Send me an email](mailto:gdrosdalima@gmail.com) if you're brave enough
 
+<span>
+  <img src="https://github.com/dlgiovani/dlgiovani/blob/main/cat_unsleep.jpg?raw=true" title="hello" width="250" height="250" align="right" alt="a sleep deprived orange cat coding"/>
+</span>
 
 ![Python](https://img.shields.io/badge/Python-3e3eaf?style=for-the-badge&logo=python&logoColor=fbfb11)
 ![FastAPI](https://img.shields.io/badge/FastAPI-002200?style=for-the-badge&logo=fastapi&logoColor=009485)
@@ -35,6 +37,4 @@ You can find my portfolio [here](https://dlgiovani.github.io/).
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgiovani&count_private=true&theme=buefy&show_icons=true#gh-light-mode-only)](https://dlgiovani.github.io#gh-light-mode-only)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgiovani&layout=compact&show_icons=true&langs_count=10#gh-light-mode-only)](https://dlgiovani.github.io#gh-light-mode-only)
 
-<div>
-  <img src="https://github.com/dlgiovani/dlgiovani/blob/main/cat_unsleep.jpg?raw=true" />
-</div>
+[Send me an email](mailto:gdrosdalima@gmail.com) if you're brave enough!
